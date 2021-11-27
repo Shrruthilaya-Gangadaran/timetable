@@ -14,7 +14,8 @@ Add your timetable
 Execute the program
 
 # CODE
-~~~<!DOCTYPE html>
+~~~
+<!DOCTYPE html>
 <html lang="en">
    <img src="C:\Users\Shrruthilaya\Documents\Web technology\timetable\logo.png" alt="LOGO"
   <body>
